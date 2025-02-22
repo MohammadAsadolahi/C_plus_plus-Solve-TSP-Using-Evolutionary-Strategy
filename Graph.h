@@ -1,9 +1,5 @@
 /*
  * Graph.h
- *
- *      Author: mohammad asadolahi 
- *      https://github.com/mohammadAsadolahi
- *	Mohammad.E.Asadolahi@gmail.com
  */
 
 #ifndef GRAPH_H_
